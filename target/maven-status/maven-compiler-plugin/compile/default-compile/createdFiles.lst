@@ -1,0 +1,9 @@
+com\ef\datatypes\Duration.class
+com\ef\datatypes\Record.class
+com\ef\Parser.class
+com\ef\manager\Manager.class
+com\ef\validation\Validator.class
+com\ef\reader\Counter$1.class
+com\ef\reader\Counter.class
+com\ef\reader\Reader.class
+com\ef\translator\Translator.class
